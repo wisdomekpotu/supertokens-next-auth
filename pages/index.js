@@ -62,7 +62,7 @@ export default function Home() {
         </Navbar.Content>
         <Navbar.Content>
           <Navbar.Item>
-            <Button auto flat as={Link} href='#'>
+            <Button auto flat as={Link} href='http://localhost:3000/auth'>
               Login
             </Button>
           </Navbar.Item>
